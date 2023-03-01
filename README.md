@@ -13,11 +13,11 @@ As a coffee lover, this was such a fun project I got to do at Nvolve! Over my Wi
 ![3  Major Importers](https://github.com/annebezwada/International-Data-on-Coffee-Imports-1990-2019-Tableau/blob/main/Story%201%20(Sheet%202).png)
 
 #### iv. Countries Imports Over Time SHEET
-![4  Countries Imports Over Time]()
+![4  Countries Imports Over Time](https://github.com/annebezwada/International-Data-on-Coffee-Imports-1990-2019-Tableau/blob/main/Story%201%20(Sheet%203).png)
 
 #### v. Prices of Coffee in Selected Countries SHEET
-![5  Prices of Coffee]()
+![5  Prices of Coffee](https://github.com/annebezwada/International-Data-on-Coffee-Imports-1990-2019-Tableau/blob/main/Story%201%20(Sheet%204).png)
 
 #### vi. Relationship between import of coffee in 60 kg bags and retail price of coffee (2018 only) SHEET
-![6  Import Vs. Retail Price in 2018]()
+![6  Import Vs. Retail Price in 2018](https://github.com/annebezwada/International-Data-on-Coffee-Imports-1990-2019-Tableau/blob/main/Story%201%20(Sheet%205).png)
 
