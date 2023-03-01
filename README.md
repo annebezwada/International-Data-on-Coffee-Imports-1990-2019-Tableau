@@ -3,6 +3,7 @@
 As a coffee lover, this was such a fun project I got to do at Nvolve! Over my Winter break, I created this story. This dashboard explores on coffee imports  from all over the world from 1990-2019. The data is from the Internation Coffee Organization. My observations can be seen in each sheet below. Check it out below! 👇🏽
 
 ## DATA VISUALIZATION
+
 #### i. Total Imports Over Time SHEET
 ![1  Total Imports](https://github.com/annebezwada/International-Data-on-Coffee-Imports-1990-2019-Tableau/blob/main/Story%201.png)
 
