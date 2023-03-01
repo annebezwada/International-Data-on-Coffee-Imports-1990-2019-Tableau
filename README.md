@@ -7,7 +7,7 @@ As a coffee lover, this was such a fun project I got to do at Nvolve! Over my Wi
 ![1  Model Relations](https://user-images.githubusercontent.com/45898995/119708373-e8bfb780-be7d-11eb-90b2-5da0afdedcce.PNG)
 
 #### ii. Total Imports Over Time SHEET
-![2  Sales Overview](https://user-images.githubusercontent.com/45898995/119709090-a64aaa80-be7e-11eb-91bc-4870483b1401.png)
+![2  Sales Overview](https://github.com/annebezwada/International-Data-on-Coffee-Imports-1990-2019-Tableau/blob/main/Story%201.png)
 
 #### iii. Major Importers SHEET
 ![3  Major Importers](https://user-images.githubusercontent.com/45898995/119709961-a4351b80-be7f-11eb-87b8-13c6315b6eba.png)
